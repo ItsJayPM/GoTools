@@ -2,8 +2,8 @@
 All of the tools I used to rip and decrypt goanimate assets, + some misc. stuff.
 ## Programs
 - GoAnimate Ripper: Tool used to rip assets from GoAnimate.
-- GoAnimate RipperCC: Tool used to rip character creator assets from GoAnimate (code is a bit bad).
-- GoAnimate RipperFreeAction: Obsolete; used to rip free actions, however this functionality was merged into Ripper CC.
+- GoAnimate Ripper CC: Tool used to rip character creator assets from GoAnimate (code is a bit bad).
+- GoAnimate Ripper FreeAction CC: Obsolete; used to rip free actions, however this functionality was merged into Ripper CC.
 - GO4: A mass RC4 decryptor.
 - GO4CC: A mass RC4 decrpytor for CC themes (probably has bad code.
 - Build Tracker: Small tool created to find and download builds of GoAnimate left on servers by mistake.
